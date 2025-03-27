@@ -1,10 +1,10 @@
 ## Hi there 👋
 
 <p align="left">
-# About Me
+About Me
 국립한밭대학교 컴퓨터공학과 3학년 재학중 | AI 및 데이터 분석에 열정을 가진 개발자 |
 
-# Interests
+Interests
 - 머신러닝 & 딥러닝
 - 데이터분
 
