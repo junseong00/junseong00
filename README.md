@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+<p align="left">
 # About Me
 국립한밭대학교 컴퓨터공학과 3학년 재학중 | AI 및 데이터 분석에 열정을 가진 개발자 |
 
@@ -12,6 +13,7 @@
 
 # Goal
 AI 기술을 활용하여 실생활 문제 해결에 기여하는 것을 목표로 하고 있다.
+</p>
 <!--
 **junseong00/junseong00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
