@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=50&duration=4000&color=FF7EB3&center=true&vCenter=true&width=600&height=100&lines=Hello!+I'm+Junseong" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?size=50&duration=4000&color=FF7EB3&center=true&vCenter=true&width=600&height=100&lines=Hello!+I'm+Junseong👋" alt="Typing SVG">
 </p>
-
-<h1 align="center">Hello! I'm Junseong 👋</h1>
 
 ---
 
