@@ -1,6 +1,6 @@
 <h1 align="center">
   <span style="
-    background: linear-gradient(to right, #ff9a9e, #fad0c4);
+    background: linear-gradient(to right, #00c6ff, #0072ff);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     font-size: 50px;
