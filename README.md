@@ -1,14 +1,6 @@
-<h1 align="center">
-  <span style="
-    background: linear-gradient(to right, #00c6ff, #0072ff);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    font-size: 50px;
-    font-family: 'Comic Sans MS', cursive, sans-serif;
-  ">
-    Hello! I'm Junseong
-  </span>
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=50&duration=4000&color=FF7EB3&center=true&vCenter=true&width=600&height=100&lines=Hello!+I'm+Junseong" alt="Typing SVG">
+</p>
 
 <h1 align="center">Hello! I'm Junseong 👋</h1>
 
