@@ -1,3 +1,15 @@
+<h1 align="center">
+  <span style="
+    background: linear-gradient(to right, #ff7eb3, #ff758c);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 50px;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+  ">
+    Hello! I'm Junseong
+  </span>
+</h1>
+
 <h1 align="center">Hello! I'm Junseong 👋</h1>
 
 ---
