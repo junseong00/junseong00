@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<p align="center">
+🚀 저는 4년차 분석가이며, 항상 우주의 별 먼지와 같은 존재라고 생각합니다. 👩‍🚀
+</p>
 <!--
 **junseong00/junseong00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
