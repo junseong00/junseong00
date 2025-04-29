@@ -36,13 +36,16 @@
 
 </p>
 
+<p align="center">
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunseong00&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://github.com/junseong00)
+</p>
+
+
+
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=junseong00&show_icons=true&theme=github_light" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junseong00&layout=compact&theme=github_light" width="48%" />
-</p>
-<p align="center">
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunseong00&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://github.com/junseong00)
 </p>
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
