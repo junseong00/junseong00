@@ -37,9 +37,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/junseong00">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunseong00&count_bg=%239cf&title_bg=%23000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=junseong00&label=Profile%20views&color=0e75b6&style=flat" alt="junseong00" />
 </p>
 
 
