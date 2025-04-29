@@ -39,12 +39,11 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=junseong00&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=junseong00&show_icons=true&theme=github_light" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=junseong00&theme=radical" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junseong00&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junseong00&layout=compact&theme=github_light" />
 </p>
+
 
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
