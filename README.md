@@ -36,12 +36,9 @@
 
 </p>
 
-<p align="center">
-  <a href="https://hits.sh/github.com/junseong00/">
-    <img alt="Hits" src="https://hits.sh/github.com/junseong00.svg?style=flat-square&color=08CE5D&labelColor=0D1117&label=HITS&extraCount=0" />
-  </a>
-</p>
-
+<a href="https://hits.sh/github.com/junseong00/">
+  <img alt="Hits" src="https://hits.sh/github.com/junseong00.svg?style=flat-square&label=HITS&color=5bc26a&labelColor=555555"/>
+</a>
 
 
 
