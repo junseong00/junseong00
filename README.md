@@ -1,9 +1,5 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=50&duration=4000&color=FF7EB3&center=true&vCenter=true&width=600&height=100&lines=Hello!+I'm+Junseong👋" alt="Typing SVG">
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Junseong%20World&fontSize=45" />
 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Stay%20Curious,%20Keep%20Building%20🚀&fontSize=45" />
 
 
 ## 📚 About Me
