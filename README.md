@@ -3,9 +3,8 @@
 </p>
 
 
-# 👋 Hi, I'm Junseong!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Stay%20Curious,%20Keep%20Building%20🚀&fontSize=45" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=blue&height=250&section=header&text=Junseong's%20GitHub&fontSize=45" />
 
 ## 📚 About Me
 ...
