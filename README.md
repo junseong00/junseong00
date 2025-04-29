@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Junseong%20World&fontSize=45" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=400&section=header&text=Junseong%20World&fontSize=60" />
+
 
 ### 🏫 About Me
 - 🎓 국립한밭대학교 컴퓨터공학과 3학년 재학
