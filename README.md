@@ -1,6 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Junseong%20World&fontSize=70" />
 
-<img src="https://images.unsplash.com/photo-1506765515384-028b60a970df?ixlib=rb-4.0.3&auto=format&fit=crop&w=1500&q=80" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0be881&height=300&section=header&text=Junseong%20World&fontSize=60" />
+
 
 
 
