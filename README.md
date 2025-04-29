@@ -37,7 +37,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=junseong00&label=Profile%20views&color=0e75b6&style=flat" alt="junseong00" />
+  <a href="https://hits.sh/github.com/junseong00/">
+    <img alt="Hits" src="https://hits.sh/github.com/junseong00.svg?style=flat-square&color=08CE5D&labelColor=0D1117&label=visitors&extraCount=0" />
+  </a>
 </p>
 
 
