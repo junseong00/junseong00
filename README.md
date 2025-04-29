@@ -15,6 +15,15 @@
 
 </p>
 
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=junseongpark&show_icons=true&theme=radical" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=junseongpark&theme=radical" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junseongpark&layout=compact&theme=radical" />
+</p>
+
 
 ### 🏫 About Me
 - 🎓 국립한밭대학교 컴퓨터공학과 3학년 재학
