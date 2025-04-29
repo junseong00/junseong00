@@ -42,7 +42,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junseong00&layout=compact&theme=github_light" width="48%" />
 </p>
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=junseong00&label=Visitors&color=0e75b6&style=flat" alt="junseong00" />
+</p>
 
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
