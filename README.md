@@ -42,9 +42,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junseong00&layout=compact&theme=github_light" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=junseong00&label=Visitors&color=0e75b6&style=flat" alt="junseong00" />
-</p>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunseong00&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://github.com/junseong00)
+
 
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
