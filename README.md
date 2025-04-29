@@ -47,8 +47,6 @@
 </p>
 
 
-### 📫 Contact
-
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
   <a href="https://www.instagram.com/junsn_g/">
@@ -56,12 +54,11 @@
   </a>&nbsp
   <a href="mailto:js03093351@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
+  </a>&nbsp
+  <a href="https://github.com/junseong00/">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
 </p>
-
-
-[![Gmail Badge](https://img.shields.io/badge/-js03093351@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:js03093351@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/junseong00/)
 
 <!--
 **junseong00/junseong00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
