@@ -37,6 +37,29 @@
 </p>
 
 
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</p>
+
+## 📈 GitHub Stats + Visitors
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=junseong00&show_icons=true&theme=github_light" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junseong00&layout=compact&theme=github_light" width="48%"/>
+</p>
+
+<p align="center">
+  <a href="https://hits.sh/github.com/junseong00/">
+    <img alt="Hits" src="https://hits.sh/github.com/junseong00.svg?style=for-the-badge&label=HITS&color=5bc26a&labelColor=555555"/>
+  </a>
+</p>
+
+
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=junseong00&show_icons=true&theme=github_light" width="48%" />
@@ -56,23 +79,6 @@
   </a>
 </p>
 
-
-
-<h3 align="center">🌈 Follow Me 🌈</h3>
-<p align="center">
-  <a href="https://www.instagram.com/junsn_g/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
-  </a>&nbsp
-  <a href="mailto:js03093351@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
-  </a>&nbsp
-  <a href="https://github.com/junseong00/">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>&nbsp
-  <a href="https://hits.sh/github.com/junseong00/">
-    <img alt="Hits" src="https://hits.sh/github.com/junseong00.svg?style=flat-square&label=HITS&color=5bc26a&labelColor=555555"/>
-  </a>
-</p>
 
 <!--
 **junseong00/junseong00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
