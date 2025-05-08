@@ -4,7 +4,7 @@
 - 🎓 국립한밭대학교 컴퓨터공학과 3학년 재학
 - 🎓 Eco AI LAB 활동          
 
-    [[https://sites.google.com/view/ecoai](https://sites.google.com/view/ecoai)]
+    👉 [https://sites.google.com/view/ecoai](https://sites.google.com/view/ecoai)
   
 ### 💡 Interests
 - 🔥 머신러닝 & 딥러닝
