@@ -13,10 +13,12 @@
 
 ### 🧩 Eco AI LAB
 👉 [https://sites.google.com/view/ecoai](https://sites.google.com/view/ecoai)
+
 <a href="https://www.issuemaker.kr/news/articleView.html?idxno=50680">
     <img src="https://img.shields.io/badge/EcoAI_이슈메이커_보도-000000?style=flat-square&logo=readme&logoColor=white"/>
   </a>&nbsp
-  <a href="https://www.sisamagazine.co.kr/news/articleView.html?idxno=511028">
+  
+<a href="https://www.sisamagazine.co.kr/news/articleView.html?idxno=511028">
     <img src="https://img.shields.io/badge/EcoAI_시사매거진_보도-000000?style=flat-square&logo=readme&logoColor=white"/>
   </a>
 </p>
