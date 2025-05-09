@@ -49,7 +49,7 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![SQLD](https://img.shields.io/badge/SQLD%20%28%29-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLD](https://img.shields.io/badge/SQLD-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 ## ⚙️ Tools
