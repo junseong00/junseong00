@@ -95,10 +95,11 @@
   <a href="https://github.com/junseong00/">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
-</p>
  <a href="https://hits.sh/github.com/junseong00/">
     <img alt="Hits" src="https://hits.sh/github.com/junseong00.svg?style=for-the-badge&label=HITS&color=5bc26a&labelColor=555555"/>
   </a>
+
+</p>
 
 <!--
 **junseong00/junseong00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
