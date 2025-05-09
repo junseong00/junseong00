@@ -6,8 +6,11 @@
 
 
 ### 💡 Interests
-- 🔥 머신러닝 & 딥러닝
-- 📊 데이터 분석
+- 🔥 머신러닝 & 딥러닝  
+  🛠️ **Used Models**: LSTM Autoencoder, Isolation Forest, KMeans, CNN  
+
+- 📊 데이터 분석  
+  🛠️ **Used Datasets**: LEAD, KPI 
 
 ### 🚀 Projects
 - 🔌 산업 전력 데이터 분석을 통한 최적화 모델 개발
