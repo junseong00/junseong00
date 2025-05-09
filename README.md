@@ -2,13 +2,7 @@
 
 ### 🏫 About Me
 - 🎓 국립한밭대학교 컴퓨터공학과 3학년 재학
-- 🎓 [Eco AI LAB](https://sites.google.com/view/ecoai) 활동 &nbsp;&nbsp;
-  <a href="https://www.issuemaker.kr/news/articleView.html?idxno=50680">
-    <img src="https://img.shields.io/badge/이슈메이커_보도-191970?style=flat-square&logo=readme&logoColor=white"/>
-  </a>&nbsp;
-  <a href="https://www.sisamagazine.co.kr/news/articleView.html?idxno=511028">
-    <img src="https://img.shields.io/badge/시사매거진_보도-191970?style=flat-square&logo=readme&logoColor=white"/>
-  </a>
+- 🎓 [Eco AI LAB](https://sites.google.com/view/ecoai) 활동
 
 
 ### 💡 Interests
@@ -17,6 +11,17 @@
 
 ### 🚀 Projects
 - 🔌 산업 전력 데이터 분석을 통한 최적화 모델 개발
+
+### 🧩 Issue
+
+<p>
+  <a href="https://www.issuemaker.kr/news/articleView.html?idxno=50680">
+    <img src="https://img.shields.io/badge/이슈메이커_보도-191970?style=flat-square&logo=readme&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://www.sisamagazine.co.kr/news/articleView.html?idxno=511028">
+    <img src="https://img.shields.io/badge/시사매거진_보도-191970?style=flat-square&logo=readme&logoColor=white"/>
+  </a>
+</p>
   
 
 ### 🗂️ 활동 내역
