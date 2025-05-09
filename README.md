@@ -4,11 +4,12 @@
 - 🎓 국립한밭대학교 컴퓨터공학과 3학년 재학
 - 🎓 [Eco AI LAB](https://sites.google.com/view/ecoai) 활동  
   <a href="https://www.issuemaker.kr/news/articleView.html?idxno=50680">
-    <img src="https://img.shields.io/badge/이슈메이커_보도-1E90FF?style=flat-square&logo=readme&logoColor=white"/>
-  </a>&nbsp
+    <img src="https://img.shields.io/badge/이슈메이커_보도-191970?style=flat-square&logo=readme&logoColor=white"/>
+
   <a href="https://www.sisamagazine.co.kr/news/articleView.html?idxno=511028">
-    <img src="https://img.shields.io/badge/시사매거진_보도-1E90FF?style=flat-square&logo=readme&logoColor=white"/>
+    <img src="https://img.shields.io/badge/시사매거진_보도-191970?style=flat-square&logo=readme&logoColor=white"/>
   </a>
+
 
 ### 💡 Interests
 - 🔥 머신러닝 & 딥러닝
