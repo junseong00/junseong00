@@ -7,7 +7,7 @@
 
 ### 💡 Interests
 - 🔥 머신러닝 & 딥러닝  
-   **Used Models**: LSTM, Autoencoder, Isolation Forest, KMeans
+   **Used Models**: LSTM, Autoencoder, USAD, Isolation Forest, KMeans
 
 - 📊 데이터 분석  
    **Used Datasets**: LEAD(A Large-scale Annotated Datasets), KPI-Anomaly-Detection 
