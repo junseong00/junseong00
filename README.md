@@ -88,7 +88,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junseong00&layout=compact&theme=github_light" width="48%" />
 </p>
 
-<p align="center">
+
+**<p align="center">
   <a href="https://hits.sh/github.com/junseong00/">
     <img alt="Hits" src="https://hits.sh/github.com/junseong00.svg?style=for-the-badge&label=HITS&color=5bc26a&labelColor=555555"/>
   </a>
