@@ -1,20 +1,20 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Junseong%20World&fontSize=70" />
 
 ### 🏫 About Me
-- 🎓 국립한밭대학교 컴퓨터공학과 3학년 재학
-- 🎓 [Eco AI LAB](https://sites.google.com/view/ecoai) 활동
+- 국립한밭대학교 컴퓨터공학과 3학년 재학
+- [Eco AI LAB](https://sites.google.com/view/ecoai) 활동
 
 
 ### 💡 Interests
-- 🔥 머신러닝 & 딥러닝  
+- 머신러닝 & 딥러닝  
    **Used Models**: LSTM, Autoencoder, USAD(Unsupervised Anomaly Detection), Isolation Forest, KMeans
 
-- 📊 데이터 분석  
+- 데이터 분석  
    **Used Datasets**: LEAD(A Large-scale Annotated Datasets), KPI-Anomaly-Detection 
 
 ### 🚀 Projects
-- 🔌 산업 전력 데이터 분석을 통한 최적화 모델 개발
-- 🔋 양자 배터리
+- 산업 전력 데이터 분석을 통한 최적화 모델 개발
+- 양자 배터리
 
 ### 🧩 Issue
 
