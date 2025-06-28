@@ -13,7 +13,7 @@
    **Used Datasets**: LEAD(A Large-scale Annotated Datasets), KPI-Anomaly-Detection 
 
 ### 🚀 Projects
-- 🔌 산업 전력 데이터 분석을 통한 최적화 모델 개발
+- 🔌 산업 전력 데이터 분석을 통한 최적화 모델 개발 / 양자 배터리
 
 ### 🧩 Issue
 
