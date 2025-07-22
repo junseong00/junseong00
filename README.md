@@ -33,6 +33,7 @@
 
 | 기간       | 활동       | 내용                                  |
 |------------|------------|----------------------------------------|
+| 25.07.28 ~ 08.08 | 소중한 SW특강 웹 개발 실무 | 도커 및 쿠버네티스 기반 DevOps 자동화, SQL Mapper 및 ORM을 활용한 데이터 처리 등 |
 | ~ 25.07.11 | Isolation Forest 와 Autoencoder 하이브리드 이상치 탐지 부분 참여(공저자) | A Comparative Study of Customized Algorithms for Anomaly Detection in Industry-Specific Power Data (SCIE) |
 | 25.06.30 ~ 07.11| 기업 인턴십 |[(주)아군](https://argoon.net) |
 | 25.06.24 ~ 06.27 | 대한전자공학회 하계종합학술대회 | LSTM Autoencoder와 Unsupervised Anomaly Detection 모델의 시간 해상도별 이상치 탐지 성능 분석  |
