@@ -31,6 +31,8 @@
 
 | 기간       | 활동       | 내용                                  |
 |------------|------------|----------------------------------------|
+| ~ 25.07.11 | MDPI Energies 논문 게재 | A Comparative Study of
+Customized Algorithms for Anomaly Detection in Industry-Specific Power Data (SCIE) |
 | 25.06.30 ~ 07.11| 기업 인턴십 |[(주)아군](https://argoon.net) |
 | 25.06.24 ~ 06.27 | 대한전자공학회 하계종합학술대회 | LSTM Autoencoder와 Unsupervised Anomaly Detection 모델의 시간 해상도별 이상치 탐지 성능 분석  |
 | 25.05.20 ~ 06.30| ABC 프로젝트 멘토링 | 산업 전력 소비량의 이상치 검출 및 최적화를 통한 에너지 소비량 감축 |
