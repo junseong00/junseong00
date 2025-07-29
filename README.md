@@ -17,8 +17,8 @@
 - 양자 배터리
 
 ### 🧩 Issue
-- <a href="http://www.ebaekje.co.kr/news/articleView.html?idxno=184209">
-    <img src="https://img.shields.io/badge/백제뉴스_보도-191970?style=flat-square&logo=readme&logoColor=white"/>
+- <a href="https://www.localtoday.co.kr/news/articleView.html?idxno=328094">
+    <img src="https://img.shields.io/badge/EcoAI_보도-191970?style=flat-square&logo=readme&logoColor=white"/>
   </a>
 - <a href="https://www.issuemaker.kr/news/articleView.html?idxno=50680">
     <img src="https://img.shields.io/badge/이슈메이커_보도-191970?style=flat-square&logo=readme&logoColor=white"/>
