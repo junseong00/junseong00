@@ -33,7 +33,7 @@
 
 | 기간       | 활동       | 내용                                  |
 |------------|------------|----------------------------------------|
-| 25.08.10 ~ 08.23 | 해외인턴십 (말레이시아) | 자산관리 웹 시스템 프로젝트 |
+| 25.08.10 ~ 08.23 | 말레이시아(UCSI University) 해외인턴십 | 자산관리 웹 시스템 프로젝트 |
 | 25.08.09 | 자격증 취득 | 데이터 분석 준전문가(ADsP) |
 | 25.07.28 ~ 08.08 | 소중한 SW특강: 웹 개발 실무 | 도커 및 쿠버네티스 기반 DevOps 자동화 / SQL Mapper 및 ORM을 활용한 데이터 처리 등 |
 | ~ 25.07.11 | A Comparative Study of Customized Algorithms for Anomaly Detection in Industry-Specific Power Data (SCIE) | Isolation Forest 와 Autoencoder 하이브리드 이상치 탐지 부분 참여 (공저자) |
