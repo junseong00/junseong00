@@ -134,5 +134,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Junseong%20World&fontSize=70" />
+
+-->
+
