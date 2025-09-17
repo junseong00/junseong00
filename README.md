@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=1B1B1B&height=300&section=header&text=Welcome!%20%F0%9F%98%8A&fontSize=90&fontColor=ffffff&fontAlignY=40&desc=This%20is%20Junseong%20playground.&descSize=28&descAlign=50&descAlignY=65)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFD166&height=300&section=header&text=Welcome!😊%20%F0%9F%98%8A&fontSize=90&fontColor=1B1B1B&fontAlignY=40&desc=This%20is%20Junseong%20playground.&descSize=28&descAlign=50&descAlignY=65)
+
 
 ### 🏫 About Me
 - 국립한밭대학교 컴퓨터공학과 3학년 재학
