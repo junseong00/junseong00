@@ -1,4 +1,5 @@
-![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hi%20there👋&fontAlign=70&rotate=13&fontAlignY=25&desc=junseong's%20GitHub&descAlign=70.&descAlignY=44)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Junseong%20World&fontSize=70" />
+
 
 ### 🏫 About Me
 - 국립한밭대학교 컴퓨터공학과 3학년 재학
@@ -136,6 +137,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Junseong%20World&fontSize=70" />
+![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hi%20there👋&fontAlign=70&rotate=13&fontAlignY=25&desc=junseong's%20GitHub&descAlign=70.&descAlignY=44)
 
 -->
 
