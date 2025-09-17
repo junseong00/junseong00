@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Junseong%20World&fontSize=70" />
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300§ion=header&text=Welcome!😊&desc=This%20is%20Junseong%20playground.%20&fontSize=90&descSize=30&fontColor=ffffff&fontAlignY=40)
 
 ### 🏫 About Me
 - 국립한밭대학교 컴퓨터공학과 3학년 재학
@@ -138,6 +137,10 @@ Here are some ideas to get you started:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Junseong%20World&fontSize=70" />
 ![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hi%20there👋&fontAlign=70&rotate=13&fontAlignY=25&desc=junseong's%20GitHub&descAlign=70.&descAlignY=44)
+
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Junseong%20World&fontSize=70" />
 
 -->
 
