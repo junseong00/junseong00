@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=print("Hello!%F0%9F%98%84")&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=This%20is%20Junseong%20playground.&descSize=28&descAlign=50&descAlignY=65)
+![header](https://capsule-render.vercel.app/api?type=waving&color=1B1B1B&height=300&section=header&text=print("Hello! %F0%9F%98%8E")&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=This%20is%20Junseong%20playground.&descSize=28&descAlign=50&descAlignY=65)
 
 
 
