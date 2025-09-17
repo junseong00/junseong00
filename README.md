@@ -1,8 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFD166&height=300&section=header
-&text=print(%22Hello!%22)&fontSize=50&fontColor=1B1B1B
-&desc=This%20is%20Junseong's%20Playground&descSize=28&descAlign=50&descAlignY=65)
-
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFD166&height=300&section=header&text=print(%22Hello!%22)&fontSize=50&fontColor=1B1B1B&desc=This%20is%20Junseong's%20Playground&descSize=28&descAlign=50&descAlignY=65)
 
 
 
