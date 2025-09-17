@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=Junseong%20World&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=300&section=header&text=Junseong%20World&fontSize=70" />
 
 
 ### 🏫 About Me
