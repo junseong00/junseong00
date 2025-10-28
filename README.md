@@ -112,12 +112,18 @@
 -->
 
 ## 📈 GitHub Stats
+
+<h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=junseong00&theme=default&hide_border=false" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=junseong00&theme=github_light" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=junseong00&theme=github_light" width="96%" />
+  <a href="mailto:js03093351@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
+  </a>&nbsp
+  <a href="https://github.com/junseong00/">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>&nbsp
+  <a href="https://sites.google.com/view/ecoai">
+    <img src="https://img.shields.io/badge/EcoAI_LAB-1E90FF?style=flat-square&logo=google&logoColor=white"/>
+  </a>
 </p>
 
 
