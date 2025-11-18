@@ -40,9 +40,10 @@
 |  | 한국통신학회 학부생 캡스톤디자인 경진대회  | 그래프 신경망 기반 강화학습을 통한 양자 배터리 초흡수 이득 활용 |
 |  ~ 25.11.14 | AAAI-26 Student Abstract and Poster Program (Accepted) | Multi-Stage Reinforcement Learning for Robust Charging of Quantum Batteries |
 | 25.11.03 ~ 11.14 | 소중한 SW특강: 네이버 클라우드 실무 2기 | 클라우드 실무 및 NCP 활용 |
-| 25.10.31 | 특허 출원(국립한밭대학교 / 기여도 15%) | 커리큘럼 강화학습을 이용한 양자 배터리의 강건한 충전 시스템 |
-| 25.08.10 ~ 08.23 | 말레이시아(UCSI University) 해외인턴십 | 자산관리 웹 시스템 프로젝트 |
-| 25.08.09 | 자격증 취득 | 데이터 분석 준전문가(ADsP) |
+| 25.10.30 | 컴퓨터공학과 포트폴리오경진대회 | 우수상 |
+| 25.10.31 | 특허 출원 (국립한밭대학교 / 기여도 15%) | 커리큘럼 강화학습을 이용한 양자 배터리의 강건한 충전 시스템 |
+| 25.08.10 ~ 08.23 | 말레이시아 (UCSI University) 해외인턴십 | 자산관리 웹 시스템 프로젝트 |
+| 25.08.09 | 자격증 취득 | 데이터 분석 준전문가 (ADsP) |
 | 25.07.28 ~ 08.08 | 소중한 SW특강: 웹 개발 실무 | SpringBoot 기반 웹애플리케이션 개발 교육 |
 | ~ 25.07.11 | A Comparative Study of Customized Algorithms for Anomaly Detection in Industry-Specific Power Data (SCIE) | Isolation Forest 와 Autoencoder 하이브리드 이상치 탐지 부분 참여 (공저자) |
 | 25.06.30 ~ 07.11| 기업 인턴십 |[(주)아군](https://argoon.net) |
