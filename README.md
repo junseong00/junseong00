@@ -102,11 +102,13 @@
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-git-master-jincorps-projects.vercel.app/api?username=junseong00&show_icons=true&theme=github_light&count_private=true" width="48%" />
-  <img src="https://github-readme-stats-git-master-jincorps-projects.vercel.app/api/top-langs/?username=junseong00&layout=compact&theme=github_light&count_private=true" width="48%" />
-</p>
+## 🌟 GitHub Summary Cards
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=junseong00&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=junseong00&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=junseong00&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=junseong00&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=junseong00&theme=default&utcOffset=9)
+
 
 
 
