@@ -104,17 +104,10 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=junseong00&show_icons=true&theme=github_light" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junseong00&layout=compact&theme=github_light" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=junseong00&show_icons=true&theme=github_light&count_private=true&cache_seconds=1800" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junseong00&layout=compact&theme=github_light&count_private=true&cache_seconds=1800" width="48%" />
 </p>
 
-<!--
-<p align="center">
-  <a href="https://hits.sh/github.com/junseong00/">
-    <img alt="Hits" src="https://hits.sh/github.com/junseong00.svg?style=for-the-badge&label=HITS&color=5bc26a&labelColor=555555"/>
-  </a>
-</p>
--->
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
