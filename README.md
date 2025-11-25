@@ -110,6 +110,11 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=junseong00&theme=default&utcOffset=9)
 
 
+## 📈 GitHub Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=junseong00&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=junseong00&theme=default)
+![](https://streak-stats.demolab.com/?user=junseong00&theme=default)
+
 
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
