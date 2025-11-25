@@ -104,9 +104,10 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=junseong00&show_icons=true&theme=github_light&count_private=true&cache_seconds=1800" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junseong00&layout=compact&theme=github_light&count_private=true&cache_seconds=1800" width="48%" />
+  <img src="https://github-readme-stats-git-master-jincorps-projects.vercel.app/api?username=junseong00&show_icons=true&theme=github_light&count_private=true" width="48%" />
+  <img src="https://github-readme-stats-git-master-jincorps-projects.vercel.app/api/top-langs/?username=junseong00&layout=compact&theme=github_light&count_private=true" width="48%" />
 </p>
+
 
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
