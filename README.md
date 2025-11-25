@@ -122,6 +122,9 @@
   <a href="mailto:js03093351@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>&nbsp
+    <a href="mailto:dmb6704@naver.com">
+    <img src="https://img.shields.io/badge/Naver_Mail-03C75A?style=flat-square&logo=naver&logoColor=white"/>
+  </a>&nbsp
   <a href="https://github.com/junseong00/">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   <a href="https://sites.google.com/view/ecoai">
