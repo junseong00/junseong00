@@ -36,8 +36,42 @@
 
 | 기간       | 활동       | 내용                                  |
 |------------|------------|----------------------------------------|
-| 25.11.19 ~ 11.21 | 한국통신학회 추계종합학술발표회 | 단계적 강화학습 프레임워크를 통한 강건한 양자 배터리 충전 (학부우수논문상) |
-|  | 한국통신학회 학부생 캡스톤디자인 경진대회 | 양자배터리 초흡수 이득 극대화를 위한 그래프 기반 강화학습 충전 제어 (우수상) |
+| 25.11.19 ~ 11.21 | 한국통신학회 추계종합학술발표회 | 단계적 강화학습 프레임워크를 통한 강건한 양자 배터리 충전 (장려상 수상### 🏫 About Me
+- 국립한밭대학교 컴퓨터공학과 3학년 재학
+- [Eco AI LAB](https://sites.google.com/view/ecoai) 활동
+
+
+### 💡 Interests
+- 머신러닝 & 딥러닝  
+   **Used Models**: LSTM, Autoencoder, USAD(Unsupervised Anomaly Detection), Isolation Forest, KMeans
+
+- 데이터 분석  
+   **Used Datasets**: LEAD(A Large-scale Annotated Datasets), KPI-Anomaly-Detection 
+
+### 🚀 Projects
+- 산업 전력 데이터 분석을 통한 최적화 모델 개발
+- 양자 배터리
+- Care Robot
+
+### 🧩 Issue
+- <a href="https://www.localtoday.co.kr/news/articleView.html?idxno=328094">
+    <img src="https://img.shields.io/badge/EcoAI_보도-191970?style=flat-square&logo=readme&logoColor=white"/>
+  </a>
+- <a href="https://www.issuemaker.kr/news/articleView.html?idxno=50680">
+    <img src="https://img.shields.io/badge/이슈메이커_보도-191970?style=flat-square&logo=readme&logoColor=white"/>
+  </a>
+- <a href="https://www.sisamagazine.co.kr/news/articleView.html?idxno=511028">
+    <img src="https://img.shields.io/badge/시사매거진_보도-191970?style=flat-square&logo=readme&logoColor=white"/>
+  </a>
+
+  
+
+### 🗂️ 활동 내역
+
+| 기간       | 활동       | 내용                                  |
+|------------|------------|----------------------------------------|
+| 25.11.19 ~ 11.21 | 한국통신학회 추계종합학술발표회 | 단계적 강화학습 프레임워크를 통한 강건한 양자 배터리 충전 (장려상 수상) |
+|  | 한국통신학회 학부생 캡스톤디자인 경진대회 | 양자배터리 초흡수 이득 극대화를 위한 그래프 기반 강화학습 충전 제어 (우수상 수상) |
 |  ~ 25.11.14 | AAAI-26 Student Abstract and Poster Program (Accepted) | Multi-Stage Reinforcement Learning for Robust Charging of Quantum Batteries |
 | 25.11.03 ~ 11.14 | 소중한 SW특강: 네이버 클라우드 실무 2기 | 클라우드 실무 및 NCP 활용 |
 | 25.10.31 | 특허 출원 (국립한밭대학교 / 기여도 15%) | 커리큘럼 강화학습을 이용한 양자 배터리의 강건한 충전 시스템 |
