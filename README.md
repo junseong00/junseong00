@@ -9,10 +9,8 @@
 
 ### 💡 Interests
 - 머신러닝 & 딥러닝  
-   **Used Models**: LSTM, Autoencoder, USAD(Unsupervised Anomaly Detection), Isolation Forest, KMeans
-
+- 강화학습
 - 데이터 분석  
-   **Used Datasets**: LEAD(A Large-scale Annotated Datasets), KPI-Anomaly-Detection 
 
 ### 🚀 Projects
 - 산업 전력 데이터 분석을 통한 최적화 모델 개발
@@ -32,37 +30,6 @@
 
   
 
-### 🗂️ 활동 내역
-
-| 기간       | 활동       | 내용                                  |
-|------------|------------|----------------------------------------|
-| 25.11.19 ~ 11.21 | 한국통신학회 추계종합학술발표회 | 단계적 강화학습 프레임워크를 통한 강건한 양자 배터리 충전 (장려상 수상### 🏫 About Me
-- 국립한밭대학교 컴퓨터공학과 3학년 재학
-- [Eco AI LAB](https://sites.google.com/view/ecoai) 활동
-
-
-### 💡 Interests
-- 머신러닝 & 딥러닝  
-   **Used Models**: LSTM, Autoencoder, USAD(Unsupervised Anomaly Detection), Isolation Forest, KMeans
-
-- 데이터 분석  
-   **Used Datasets**: LEAD(A Large-scale Annotated Datasets), KPI-Anomaly-Detection 
-
-### 🚀 Projects
-- 산업 전력 데이터 분석을 통한 최적화 모델 개발
-- 양자 배터리
-- Care Robot
-
-### 🧩 Issue
-- <a href="https://www.localtoday.co.kr/news/articleView.html?idxno=328094">
-    <img src="https://img.shields.io/badge/EcoAI_보도-191970?style=flat-square&logo=readme&logoColor=white"/>
-  </a>
-- <a href="https://www.issuemaker.kr/news/articleView.html?idxno=50680">
-    <img src="https://img.shields.io/badge/이슈메이커_보도-191970?style=flat-square&logo=readme&logoColor=white"/>
-  </a>
-- <a href="https://www.sisamagazine.co.kr/news/articleView.html?idxno=511028">
-    <img src="https://img.shields.io/badge/시사매거진_보도-191970?style=flat-square&logo=readme&logoColor=white"/>
-  </a>
 
   
 
