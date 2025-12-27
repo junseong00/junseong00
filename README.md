@@ -37,6 +37,7 @@
 
 | 기간       | 활동       | 내용                                  |
 |------------|------------|----------------------------------------|
+| 25.12.03 | 자격증 취득 | NAVER Cloud Platform Certified Associate (NCA) |
 | 25.11.19 ~ 11.21 | 한국통신학회 추계종합학술발표회 | 단계적 강화학습 프레임워크를 통한 강건한 양자 배터리 충전 (장려상 수상) |
 |  | 한국통신학회 학부생 캡스톤디자인 경진대회 | 양자배터리 초흡수 이득 극대화를 위한 그래프 기반 강화학습 충전 제어 (우수상 수상) |
 |  ~ 25.11.14 | AAAI-26 Student Abstract and Poster Program (Accepted) | Multi-Stage Reinforcement Learning for Robust Charging of Quantum Batteries |
