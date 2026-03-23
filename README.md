@@ -3,9 +3,9 @@
 
 
 ### 🏫 About Me
-- 국립한밭대학교 컴퓨터공학과 3학년 재학
+- 국립한밭대학교 컴퓨터공학과 4학년 재학
 - [Eco AI LAB](https://sites.google.com/view/ecoai) 활동
-- [📄 Publications (13)](https://github.com/junseong00/Profile/blob/main/README.md)
+- [논문 목록 (Publications, 13)](https://github.com/junseong00/Profile/blob/main/README.md)
 
 ### 💡 Interests
 - 머신러닝 & 딥러닝  
