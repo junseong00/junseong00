@@ -38,6 +38,7 @@
 
 | 기간       | 활동       | 내용                                  |
 |------------|------------|----------------------------------------|
+| 26.03.01 | Measurement-Informed Safe Reinforcement Learning for Quantum Battery Charging via Harmonic-Syndrome Diagnostics and BMS Constraints | IEEE Transactions on Quantum Engineering, 2026 |
 | 26.02.04 ~ 02.06 | 한국통신학회 동계종합학술발표회  | 개방 양자계 환경에서의 양자 배터리 충전 프로토콜 최적화를 위한 커리큘럼 강화학습 프레임워크 |
 |  | 한국통신학회 아이디어 경진대회  | 실시간 네트워크 상태를 스스로 인지하고 서비스 품질을 능동적으로 최적화하는 통신 자율 Agentic AI 서비스 |
 | 25.12.17 | FFT-Guided Multi-Window USAD with DTW–Isolation Forest for Reliable Anomaly Detection in Industrial Power Time-Series (SCIE) | USAD 기반 재구성 이상탐지 부분 참여 (공저자) |
