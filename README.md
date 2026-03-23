@@ -31,12 +31,13 @@
   </a>
   
 
-  
+  ---
 
 ### 🗂️ 활동
 
 | 기간       | 활동       | 내용                                  |
 |------------|------------|----------------------------------------|
+| 26.03.27 ~ 05.27 | 2026 ABC 프로젝트 멘토링 | 양자 오류 정정(QEC) AI 가속기를 위한 RTL 기반 SoC 설계 및 검증 |
 | 26.03.01 | Measurement-Informed Safe Reinforcement Learning for Quantum Battery Charging via Harmonic-Syndrome Diagnostics and BMS Constraints | IEEE Transactions on Quantum Engineering, 2026 |
 | 26.02.04 ~ 02.06 | 한국통신학회 동계종합학술발표회  | 개방 양자계 환경에서의 양자 배터리 충전 프로토콜 최적화를 위한 커리큘럼 강화학습 프레임워크 |
 |  | 한국통신학회 아이디어 경진대회  | 실시간 네트워크 상태를 스스로 인지하고 서비스 품질을 능동적으로 최적화하는 통신 자율 Agentic AI 서비스 |
@@ -54,7 +55,7 @@
 | ~ 25.07.11 | A Comparative Study of Customized Algorithms for Anomaly Detection in Industry-Specific Power Data (SCIE) | Isolation Forest 와 Autoencoder 하이브리드 이상치 탐지 부분 참여 (공저자) |
 | 25.06.30 ~ 07.11| 기업 인턴십 |[(주)아군](https://argoon.net) |
 | 25.06.24 ~ 06.27 | 대한전자공학회 하계종합학술대회 | LSTM Autoencoder와 Unsupervised Anomaly Detection 모델의 시간 해상도별 이상치 탐지 성능 분석  |
-| 25.05.20 ~ 06.30| ABC 프로젝트 멘토링 | 산업 전력 소비량의 이상치 검출 및 최적화를 통한 에너지 소비량 감축 |
+| 25.05.20 ~ 06.30| 2025 ABC 프로젝트 멘토링 | 산업 전력 소비량의 이상치 검출 및 최적화를 통한 에너지 소비량 감축 |
 | 25.04.07 ~ | 산학협력 프로젝트 | 자율주행 주차로봇 운영 소프트웨어 성능 테스트 및 최적화 |
 | 25.03.24 ~  | 소중한 JUMP-UP Labs | AI를 활용한 산업체 전력 사용량 이상치 탐지 |
 | 25.02.05 ~ 02.07 | 한국통신학회 동계종합학술발표회  | Isolation Forest 와 Autoencoder 하이브리드 이상치 탐지 기법을 활용한 산업 전력 데이터 분석 및 최적화 |
@@ -63,6 +64,7 @@
 | 24.10.28 ~ 11.15 | 교내 비교과 마이크로디그리 생성형 AI 특강 | 생성형 AI의 이해 및 활용/생성형 AI기반 콘텐츠 제작 |
 | 24.07.22 ~ 07.26 | 교내 SW특강 | 파이토치 과정 | - |
 
+---
 
 ### 🗂️ 활동 프로젝트
 
