@@ -38,6 +38,7 @@
 | 기간       | 활동       | 내용                                  |
 |------------|------------|----------------------------------------|
 | 26.03.27 ~ 05.27 | 2026 ABC 프로젝트 멘토링 | 양자 오류 정정(QEC) AI 가속기를 위한 RTL 기반 SoC 설계 및 검증 |
+| 26.03.05 ~  | 데이터사이언스 TA | 국립한밭대학교 컴퓨터공학과 |
 | 26.03.01 | Measurement-Informed Safe Reinforcement Learning for Quantum Battery Charging via Harmonic-Syndrome Diagnostics and BMS Constraints (SCIE) | IEEE Transactions on Quantum Engineering, 2026 |
 | 26.02.04 ~ 02.06 | 한국통신학회 동계종합학술발표회  | 개방 양자계 환경에서의 양자 배터리 충전 프로토콜 최적화를 위한 커리큘럼 강화학습 프레임워크 |
 |  | 한국통신학회 아이디어 경진대회  | 실시간 네트워크 상태를 스스로 인지하고 서비스 품질을 능동적으로 최적화하는 통신 자율 Agentic AI 서비스 |
@@ -70,7 +71,7 @@
 
 | 프로젝트명       | 내용                                          | 주요 기능 |
 |------------|------------|------------------------------------------------------------------|
-| 연합학습 기반 IoT 이상탐지 | 연합학습과 Autoencoder를 결합해 IoT 환경에서 분산형 이상 탐지를 수행한 프로젝트 | Autoencoder / N-BaIoT 데이터 |
+| 연합학습 기반 IoT 이상탐지 | 연합학습과 Autoencoder를 결합해 IoT 환경에서 분산형 이상 탐지를 수행한 프로젝트 | Autoencoder / N-BaIoT 데이터셋 |
 | 대용량 CSV 검색 성능 최적화 | 저수준 I/O와 병렬 처리를 활용한 대용량 CSV 고속 검색 프로젝트 | 멀티 프로세스 병렬 처리 |
 | Clouds Segmentation | 구름 탐지·분류하는 Semantic Segmentation 프로젝트 | DeepLabV3+ |
 | YellowSocks 자산관리 웹 시스템 | 교육기관 자산관리 웹 시스템 개발 | 로그인/회원가입, 자산 관리, 이동 기록, 권한 분리 |
