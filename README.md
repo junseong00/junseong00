@@ -37,15 +37,17 @@
 
 | 기간       | 활동       | 내용                                  |
 |------------|------------|----------------------------------------|
+| 26.06.23 ~ 06.26 | 대한전자공학회 하계종합학술대회(2026) | 회전 표면 부호 기반 양자 오류 정정을 위한 경량 MLP 디코더의 양자화 및 FPGA 매핑 적합성 분석 |
+| 26.06.17 ~ 06.19 | 한국통신학회 하계종합학술발표회(2026) | 한국통신학회(KICS) 장학금 지원 대상자 선정 |
 | 26.03.27 ~ 05.27 | 2026 ABC 프로젝트 멘토링 | 양자 오류 정정(QEC) AI 가속기를 위한 RTL 기반 SoC 설계 및 검증 |
 | 26.03.05 ~  | 데이터사이언스 TA | 국립한밭대학교 컴퓨터공학과 |
 | 26.03.01 | Measurement-Informed Safe Reinforcement Learning for Quantum Battery Charging via Harmonic-Syndrome Diagnostics and BMS Constraints (SCIE) | IEEE Transactions on Quantum Engineering, 2026 |
-| 26.02.04 ~ 02.06 | 한국통신학회 동계종합학술발표회  | 개방 양자계 환경에서의 양자 배터리 충전 프로토콜 최적화를 위한 커리큘럼 강화학습 프레임워크 |
-|  | 한국통신학회 아이디어 경진대회  | 실시간 네트워크 상태를 스스로 인지하고 서비스 품질을 능동적으로 최적화하는 통신 자율 Agentic AI 서비스 |
+| 26.02.04 ~ 02.06 | 한국통신학회 동계종합학술발표회(2026) | 개방 양자계 환경에서의 양자 배터리 충전 프로토콜 최적화를 위한 커리큘럼 강화학습 프레임워크 |
+|  | 한국통신학회 아이디어 경진대회(2026)  | 실시간 네트워크 상태를 스스로 인지하고 서비스 품질을 능동적으로 최적화하는 통신 자율 Agentic AI 서비스 |
 | 25.12.17 | FFT-Guided Multi-Window USAD with DTW–Isolation Forest for Reliable Anomaly Detection in Industrial Power Time-Series (SCIE) | USAD 기반 재구성 이상탐지 부분 참여 (공저자) |
 | 25.12.03 | 자격증 취득 | NAVER Cloud Platform Certified Associate (NCA) |
-| 25.11.19 ~ 11.21 | 한국통신학회 추계종합학술발표회 | 단계적 강화학습 프레임워크를 통한 강건한 양자 배터리 충전 (장려상 수상) |
-|  | 한국통신학회 학부생 캡스톤디자인 경진대회 | 양자배터리 초흡수 이득 극대화를 위한 그래프 기반 강화학습 충전 제어 (우수상 수상) |
+| 25.11.19 ~ 11.21 | 한국통신학회 추계종합학술발표회(2025) | 단계적 강화학습 프레임워크를 통한 강건한 양자 배터리 충전 (장려상 수상) |
+|  | 한국통신학회 학부생 캡스톤디자인 경진대회(2025) | 양자배터리 초흡수 이득 극대화를 위한 그래프 기반 강화학습 충전 제어 (우수상 수상) |
 |  ~ 25.11.14 | Multi-Stage Reinforcement Learning for Robust Charging of Quantum Batteries | AAAI-26 Student Abstract and Poster Program |
 | 25.11.03 ~ 11.14 | 소중한 SW특강: 네이버 클라우드 실무 2기 | 클라우드 실무 및 NCP 활용 |
 | 25.10.31 | 특허 출원 (국립한밭대학교 / 기여도 15%) | 커리큘럼 강화학습을 이용한 양자 배터리의 강건한 충전 시스템(출원번호: 10-2025-0162492) |
@@ -55,12 +57,12 @@
 | 25.07.28 ~ 08.08 | 소중한 SW특강: 웹 개발 실무 | SpringBoot 기반 웹애플리케이션 개발 교육 |
 | ~ 25.07.11 | A Comparative Study of Customized Algorithms for Anomaly Detection in Industry-Specific Power Data (SCIE) | Isolation Forest 와 Autoencoder 하이브리드 이상치 탐지 부분 참여 (공저자) |
 | 25.06.30 ~ 07.11| 기업 인턴십 |[(주)아군](https://argoon.net) |
-| 25.06.24 ~ 06.27 | 대한전자공학회 하계종합학술대회 | LSTM Autoencoder와 Unsupervised Anomaly Detection 모델의 시간 해상도별 이상치 탐지 성능 분석  |
+| 25.06.24 ~ 06.27 | 대한전자공학회 하계종합학술대회(2025) | LSTM Autoencoder와 Unsupervised Anomaly Detection 모델의 시간 해상도별 이상치 탐지 성능 분석  |
 | 25.05.20 ~ 06.30| 2025 ABC 프로젝트 멘토링 | 산업 전력 소비량의 이상치 검출 및 최적화를 통한 에너지 소비량 감축 |
 | 25.04.07 ~ | 산학협력 프로젝트 | 자율주행 주차로봇 운영 소프트웨어 성능 테스트 및 최적화 |
 | 25.03.24 ~  | 소중한 JUMP-UP Labs | AI를 활용한 산업체 전력 사용량 이상치 탐지 |
-| 25.02.05 ~ 02.07 | 한국통신학회 동계종합학술발표회  | Isolation Forest 와 Autoencoder 하이브리드 이상치 탐지 기법을 활용한 산업 전력 데이터 분석 및 최적화 |
-|  | 한국통신학회 아이디어 경진대회  | 생성형 AI를 활용한 실시간 아동 안전 보호 시스템 |
+| 25.02.05 ~ 02.07 | 한국통신학회 동계종합학술발표회(2025)  | Isolation Forest 와 Autoencoder 하이브리드 이상치 탐지 기법을 활용한 산업 전력 데이터 분석 및 최적화 |
+|  | 한국통신학회 아이디어 경진대회(2025)  | 생성형 AI를 활용한 실시간 아동 안전 보호 시스템 |
 | 24.12.24 ~ 25.01.03 | 한밭 한마음 공모전 | 슬로건 및 UI 디자인 제작 |
 | 24.10.28 ~ 11.15 | 교내 비교과 마이크로디그리 생성형 AI 특강 | 생성형 AI의 이해 및 활용/생성형 AI기반 콘텐츠 제작 |
 | 24.07.22 ~ 07.26 | 교내 SW특강 | 파이토치 과정 | - |
@@ -89,7 +91,7 @@
 | 1 | Measurement-Informed Safe Reinforcement Learning for Quantum Battery Charging via Harmonic-Syndrome Diagnostics and BMS Constraints | Sangkeum Lee, Beomdo Park, **Junseong Park**, Hyeonseok Jang, Hoon Jeong, Taewook Heo | IEEE Transactions on Quantum Engineering (SCIE) | 2026 | International Journal |
 | 2 | FFT-Guided Multi-Window USAD with DTW–Isolation Forest for Reliable Anomaly Detection in Industrial Power Time-Series | Woohyeon Kwon, Minsung Jung, **Junseong Park**, Sangkeum Lee | Energies (SCIE) | 2025 | International Journal |
 | 3 | A Comparative Study of Customized Algorithms for Anomaly Detection in Industry-Specific Power Data | Minsung Jung, Hyeonseok Jang, Woohyeon Kwon, Jiyun Seo, Suna Park, Beomdo Park, **Junseong Park**, Donggeon Yu, Sangkeum Lee | Energies (SCIE) | 2025 | International Journal |
-| 4 | DEPLOY-RL: Active Boundary Discovery and Conservative Certification for Deployable Reinforcement Learning in Safety-Critical Continuous Processes | Yeojin Jang, Minu Baek, Gihun Gil, Minsung Jung, Beomdo Park, Woohyeon Kwon, Hyeonseok Jang, **Junseong Park**, Neha Sengar, Andres Saurez and Sangkeum Lee | (IJCAI-ECAI 2026), AI4Tech Special Track | 2026 | International Conference |
+| 4 | DEPLOY-RL: Active Boundary Discovery and Conservative Certification for Deployable Reinforcement Learning in Safety-Critical Continuous Processes | Yeojin Jang, Minu Baek, Gihun Gil, Minsung Jung, Beomdo Park, Woohyeon Kwon, Hyeonseok Jang, **Junseong Park**, Neha Sengar, Andres Saurez and Sangkeum Lee | IJCAI-ECAI 2026 (AI4Tech Special Track) | 2026 | International Conference |
 | 5 | Multi-Stage Reinforcement Learning for Robust Charging of Quantum Batteries (Student Abstract) | Beomdo Park, Hyeonseok Jang, **Junseong Park**, Minu Baek, Gihun Gil, Minsung Jung, Woohyeon Kwon, Harin Jang, Yeojin Jang, Hoon Jeong, Taewook Heo, Sangkeum Lee | AAAI Conference on Artificial Intelligence | 2026 | International Conference (Poster) |
 | 6 | 회전 표면 부호 기반 양자 오류 정정을 위한 경량 MLP 디코더의 양자화 및 FPGA 매핑 적합성 분석 | **박준성**, 박범도, 장현석, 이상금 | 대한전자공학회 하계종합학술대회 | 2026 | - |
 | 7 | 엣지 환경에서의 QEC를 위한 Hybrid 지식 증류 기반의 PTQ 경량화 파이프라인 설계 | 장현석, **박준성**, 박범도, 이상금 | 대한전자공학회 하계종합학술대회 | 2026 | - |
