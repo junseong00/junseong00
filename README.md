@@ -38,7 +38,7 @@
 | 기간       | 활동       | 내용                                  |
 |------------|------------|----------------------------------------|
 | 26.06.23 ~ 06.26 | 대한전자공학회 하계종합학술대회(2026) | 회전 표면 부호 기반 양자 오류 정정을 위한 경량 MLP 디코더의 양자화 및 FPGA 매핑 적합성 분석 |
-| 26.06.17 ~ 06.19 | 한국통신학회 하계종합학술발표회(2026) | 한국통신학회(KICS) 장학금 지원 대상자 선정(장학금 수혜 및 시상식 참여) |
+| 26.06.17 ~ 06.19 | 한국통신학회 하계종합학술발표회(2026) | KICS 장학금 지원 대상자 선정(장학금 수혜 및 시상식 참여) |
 | 26.03.27 ~ 05.27 | 2026 ABC 프로젝트 멘토링 | 양자 오류 정정(QEC) AI 가속기를 위한 RTL 기반 SoC 설계 및 검증 |
 | 26.03.05 ~  | 데이터사이언스 TA | 국립한밭대학교 컴퓨터공학과 |
 | 26.03.01 | Measurement-Informed Safe Reinforcement Learning for Quantum Battery Charging via Harmonic-Syndrome Diagnostics and BMS Constraints (SCIE) | IEEE Transactions on Quantum Engineering, 2026 |
