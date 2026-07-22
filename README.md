@@ -29,7 +29,9 @@
 - <a href="https://www.localtoday.co.kr/news/articleView.html?idxno=403858">
     <img src="https://img.shields.io/badge/로컬투데이_보도-191970?style=flat-square&logo=readme&logoColor=white"/>
   </a>
-  
+- <a href="https://www.ccdailynews.com/news/articleView.html?idxno=2423462">
+    <img src="https://img.shields.io/badge/충청일보_보도-191970?style=flat-square&logo=readme&logoColor=white"/>
+  </a>  
 
   ---
 
