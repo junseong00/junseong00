@@ -39,7 +39,7 @@
 
 | 기간       | 활동       | 내용                                  |
 |------------|------------|----------------------------------------|
-| 26.08.15 ~ -08.21 | When Curriculum Becomes Critical: Automated Physics-Grounded Task Progressions for Open Quantum Control(Poster) | IJCAI-ECAI 2026 GLOW, Bremen, Germany |
+| 26.08.15 ~ -08.21 | When Curriculum Becomes Critical: Automated Physics-Grounded Task Progressions for Open Quantum Control (Poster) | IJCAI-ECAI 2026 GLOW, Bremen, Germany |
 | 26.06.23 ~ 06.26 | 대한전자공학회 하계종합학술대회(2026) | 회전 표면 부호 기반 양자 오류 정정을 위한 경량 MLP 디코더의 양자화 및 FPGA 매핑 적합성 분석 |
 | 26.06.17 ~ 06.19 | 한국통신학회 하계종합학술발표회(2026) | KICS 장학금 지원 대상자 선정(장학금 수혜 및 시상식 참여) |
 | 26.03.27 ~ 05.27 | 2026 ABC 프로젝트 멘토링 | 양자 오류 정정(QEC) AI 가속기를 위한 RTL 기반 SoC 설계 및 검증 |
