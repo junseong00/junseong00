@@ -32,7 +32,9 @@
 - <a href="https://www.ccdailynews.com/news/articleView.html?idxno=2423462">
     <img src="https://img.shields.io/badge/충청일보_보도-191970?style=flat-square&logo=readme&logoColor=white"/>
   </a>  
-
+- <a href="https://www.newsband.kr/news/articleView.html?idxno=568500">
+    <img src="https://img.shields.io/badge/뉴스밴드_보도-191970?style=flat-square&logo=readme&logoColor=white"/>
+  </a>
   ---
 
 ### 🗂️ 활동
