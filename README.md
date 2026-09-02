@@ -35,6 +35,7 @@
 - <a href="https://www.newsband.kr/news/articleView.html?idxno=568500">
     <img src="https://img.shields.io/badge/뉴스밴드_보도-191970?style=flat-square&logo=readme&logoColor=white"/>
   </a>
+  
   ---
 
 ### 🗂️ 활동
