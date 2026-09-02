@@ -48,6 +48,7 @@
 
 | 기간       | 활동       | 내용                                  |
 |------------|------------|----------------------------------------|
+| 26.09.04 ~ 09.06 | 제28회 국제로봇올림피아드(IRO) 진행요원 | 국제 로봇대회 현장 운영 및 경기 진행 지원 |
 | 26.08.26 ~ 08.27 | AX 인재 온보딩 교육  | 클로드 AI 활용 자료수집, 분석, 시각화, 보고서 작성 등 직무 실습 |
 | 26.08.15 ~ -08.21 | When Curriculum Becomes Critical: Automated Physics-Grounded Task Progressions for Open Quantum Control (Poster) | IJCAI-ECAI 2026 GLOW, Bremen, Germany |
 | 26.06.23 ~ 06.26 | 대한전자공학회 하계종합학술대회(2026) | 회전 표면 부호 기반 양자 오류 정정을 위한 경량 MLP 디코더의 양자화 및 FPGA 매핑 적합성 분석 |
