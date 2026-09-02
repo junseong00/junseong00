@@ -17,23 +17,29 @@
 - Care Robot
 
 ### 🧩 Issue
+### 🧩 Issue
 - <a href="https://www.localtoday.co.kr/news/articleView.html?idxno=328094">
-    <img src="https://img.shields.io/badge/EcoAI_보도-191970?style=flat-square&logo=readme&logoColor=white"/>
+    <img src="https://img.shields.io/badge/로컬투데이_%7C_산업_전력_데이터_이상_탐지_AI·Energies_논문_게재-191970?style=flat-square&logo=readme&logoColor=white"/>
   </a>
+
 - <a href="https://www.issuemaker.kr/news/articleView.html?idxno=50680">
-    <img src="https://img.shields.io/badge/이슈메이커_보도-191970?style=flat-square&logo=readme&logoColor=white"/>
+    <img src="https://img.shields.io/badge/이슈메이커_%7C_AI_기반_에너지·스마트팩토리_최적화_연구-191970?style=flat-square&logo=readme&logoColor=white"/>
   </a>
+
 - <a href="https://www.sisamagazine.co.kr/news/articleView.html?idxno=511028">
-    <img src="https://img.shields.io/badge/시사매거진_보도-191970?style=flat-square&logo=readme&logoColor=white"/>
+    <img src="https://img.shields.io/badge/시사매거진_%7C_AI·IoT_기반_탄소중립·에너지_최적화-191970?style=flat-square&logo=readme&logoColor=white"/>
   </a>
+
 - <a href="https://www.localtoday.co.kr/news/articleView.html?idxno=403858">
-    <img src="https://img.shields.io/badge/로컬투데이_보도-191970?style=flat-square&logo=readme&logoColor=white"/>
+    <img src="https://img.shields.io/badge/로컬투데이_%7C_한국통신학회_학부_연구_6건_수상-191970?style=flat-square&logo=readme&logoColor=white"/>
   </a>
+
 - <a href="https://www.ccdailynews.com/news/articleView.html?idxno=2423462">
-    <img src="https://img.shields.io/badge/충청일보_보도-191970?style=flat-square&logo=readme&logoColor=white"/>
-  </a>  
+    <img src="https://img.shields.io/badge/충청일보_%7C_양자_오류_정정_AI_연구·KICS_장학생_선정-191970?style=flat-square&logo=readme&logoColor=white"/>
+  </a>
+
 - <a href="https://www.newsband.kr/news/articleView.html?idxno=568500">
-    <img src="https://img.shields.io/badge/뉴스밴드_보도-191970?style=flat-square&logo=readme&logoColor=white"/>
+    <img src="https://img.shields.io/badge/뉴스밴드_%7C_IJCAI--ECAI_2026_산업·양자_AI_연구성과-191970?style=flat-square&logo=readme&logoColor=white"/>
   </a>
   
   ---
