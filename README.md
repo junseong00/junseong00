@@ -102,7 +102,7 @@
 
 | # | Title | Authors | Venue | Year | Remarks |
 |---|-------|---------|-------|------|---------|
-| 1 | Physics-Derived Curricula for Dissipative Tavis-Cummings Quantum Battery Control | **Junseong Park**, Taewook Heo, Sangkeum Lee | Physica Scripta (SCIE) | 2026 | International Journal |
+| 1 | Physics-Derived Curricula for Dissipative Tavis-Cummings Quantum Battery Control | **Junseong Park**, Sangkeum Lee | Physica Scripta (SCIE) | 2026 | International Journal |
 | 2 | Measurement-Informed Safe Reinforcement Learning for Quantum Battery Charging via Harmonic-Syndrome Diagnostics and BMS Constraints | Sangkeum Lee, Beomdo Park, **Junseong Park**, Hyeonseok Jang, Hoon Jeong, Taewook Heo | IEEE Transactions on Quantum Engineering (SCIE) | 2026 | International Journal |
 | 3 | FFT-Guided Multi-Window USAD with DTW–Isolation Forest for Reliable Anomaly Detection in Industrial Power Time-Series | Woohyeon Kwon, Minsung Jung, **Junseong Park**, Sangkeum Lee | Energies (SCIE) | 2025 | International Journal |
 | 4 | A Comparative Study of Customized Algorithms for Anomaly Detection in Industry-Specific Power Data | Minsung Jung, Hyeonseok Jang, Woohyeon Kwon, Jiyun Seo, Suna Park, Beomdo Park, **Junseong Park**, Donggeon Yu, Sangkeum Lee | Energies (SCIE) | 2025 | International Journal |
